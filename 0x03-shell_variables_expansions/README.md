@@ -1,8 +1,10 @@
 SHELL, INIT FILES, VARIABLES AND EXPANSIONS
 
 0. <o>
-     - Create a script that creates an alias
+     - Create a script that creates an alias.
+
          - Name: ls
+
          - Value: rm *
 
 1. Hello you
@@ -14,4 +16,5 @@ SHELL, INIT FILES, VARIABLES AND EXPANSIONS
 3. If the path be beautiful, let us not ask where it leads
      - Create a script that counts the number of directories in the PATH.
  
- 
+4. Global variable
+     - Create a script that lists environment variables. 
