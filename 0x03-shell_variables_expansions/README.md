@@ -17,4 +17,7 @@ SHELL, INIT FILES, VARIABLES AND EXPANSIONS
      - Create a script that counts the number of directories in the PATH.
  
 4. Global variable
-     - Create a script that lists environment variables. 
+     - create a script that lists environment variables. 
+
+5. Local variable
+     - Create a script that lists all local variables and environment variables, and function
