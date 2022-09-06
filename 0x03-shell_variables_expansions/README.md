@@ -1,4 +1,9 @@
-SHELL, INIT FILES, VARIABLES ASND EXPANSIONS
+SHELL, INIT FILES, VARIABLES AND EXPANSIONS
 
 0. <o>
-  Creates a script that creates an alias 
+     - Create a script that creates an alias
+         . Name: ls
+         . Value: rm *
+1. Hello you
+     - Create a script that prints hello user, where user is the current Linux user.
+ 
